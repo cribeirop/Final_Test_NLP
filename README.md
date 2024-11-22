@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Neste projeto, realizou-se um processo de sumarização de contos utilizando uma porção do dataset [Tiny Stories](https://www.kaggle.com/datasets/thedevastator/tinystories-narrative-classification). O roteiro deste projeto está disponível com o nome `Roteiro.pdf`.
+Neste projeto, como parte da temática de Deep Learning Researcher, realizou-se um processo de sumarização de contos utilizando uma porção do dataset [Tiny Stories](https://www.kaggle.com/datasets/thedevastator/tinystories-narrative-classification). O roteiro deste projeto está disponível com o nome `Roteiro.pdf`.
 
 A combinação das técnicas utilizadas provou ser valiosa para gerar resumos com desempenho excelente nas métricas ROUGE. Esse projeto valida a aplicabilidade de modelos como o BERT e BART em tarefas de sumarização extrativa e abstrativa, e oferece perspectivas sobre como diferentes técnicas podem ser combinadas para aprimorar a qualidade dos resumos gerados.
 
