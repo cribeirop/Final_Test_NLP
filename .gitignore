@@ -1,0 +1,8 @@
+venv
+bart-fine-tuned
+.ipynb_checkpoints
+train.csv
+validation.csv
+main.ipynb
+main2.ipynb
+esboco.py
